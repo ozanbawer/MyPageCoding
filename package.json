@@ -1,0 +1,26 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ozanbawer/website#readme",
+  "bugs": {
+    "url": "https://github.com/ozanbawer/website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozanbawer/website.git"
+  },
+  "license": "ISC",
+  "author": "Ozan Baran",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "tailwind": "npx @tailwindcss/cli -i ./style.css -o ./template.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Html5","CSS3","JavaScript", "Tailwindcss"],
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.14",
+    "tailwindcss": "^4.0.14"
+  }
+}

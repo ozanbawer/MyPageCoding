@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #2AAF84;
+    --default-font-family: "Tektur", sans-serif;
+    --drop-shadow-myshadow: 0 0 10px rgba(42,175,132,0.5);
+
+}
+
+section {
+min-height: :100vh;
+padding: 10rem 12% 10rem;
+}
