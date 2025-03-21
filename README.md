@@ -1,3 +1,5 @@
-# Kişisel Web Sitem  
+# Kişisel Web Sayfam  
 
-**  Bu repo'da çğrendiklerimi uygulayarak kendim için hazırlamış olduğum kişisel web sayfam için adım adım kodları ekliyorum **
+**Bu repo'da çğrendiklerimi uygulayarak kendim için hazırlamış olduğum kişisel web sayfam için adım adım kodları ekliyorum**
+
+[Kişisel Web Sayfam] (ozanbaran.me)
