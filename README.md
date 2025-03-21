@@ -4,8 +4,8 @@ Bu repoya, öğrendiklerimi uygulayarak kendim için hazırlamış olduğum kiş
 
 [Kişisel Web Sayfam](https://ozanbaran.me)
 
-## Kullandığım Diller
-*HTML5
-*CSS3
-*Tailwindcss
-*Javacript
+## Kullandığım Diller:
+* HTML5
+* CSS3
+* Tailwindcss
+* Javacript
